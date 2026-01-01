@@ -1,7 +1,7 @@
 # Nero — Professional Disc Burning & Multimedia Suite for Windows
 
 <div align="center">
-  <img src="https://images.seeklogo.com/logo-png/9/1/nero-burning-rom-7-logo-png_seeklogo-98248.png" alt="Nero Logo"/>
+  <img src="https://images.seeklogo.com/logo-png/9/2/nero-burning-rom-7-logo-png_seeklogo-98248.png" alt="Nero Logo"/>
 </div>
 
 <div align="center">
